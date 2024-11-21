@@ -1,0 +1,112 @@
+{
+    "biblioteca": {
+      "categorias": [
+        {
+          "nombre": "Ficción",
+          "libros": [
+            {
+              "titulo": "Cien años de soledad",
+              "autor": "Gabriel García Márquez",
+              "precio": 15,
+              "variantes": [
+                {
+                  "tipo": "Tapa dura",
+                  "precio": 20
+                },
+                {
+                  "tipo": "Tapa blanda",
+                  "precio": 15
+                }
+              ]
+            },
+            {
+              "titulo": "1984",
+              "autor": "George Orwell",
+              "precio": 12,
+              "variantes": [
+                {
+                  "tipo": "Tapa dura",
+                  "precio": 18
+                },
+                {
+                  "tipo": "Tapa blanda",
+                  "precio": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "No Ficción",
+          "libros": [
+            {
+              "titulo": "Steve Jobs",
+              "autor": "Walter Isaacson",
+              "precio": 18,
+              "variantes": [
+                {
+                  "tipo": "Tapa dura",
+                  "precio": 25
+                },
+                {
+                  "tipo": "Tapa blanda",
+                  "precio": 18
+                }
+              ]
+            },
+            {
+              "titulo": "El diario de Ana Frank",
+              "autor": "Ana Frank",
+              "precio": 10,
+              "variantes": [
+                {
+                  "tipo": "Tapa dura",
+                  "precio": 15
+                },
+                {
+                  "tipo": "Tapa blanda",
+                  "precio": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Ciencia",
+          "libros": [
+            {
+              "titulo": "Breves respuestas a las grandes preguntas",
+              "autor": "Stephen Hawking",
+              "precio": 18,
+              "variantes": [
+                {
+                  "tipo": "Tapa dura",
+                  "precio": 25
+                },
+                {
+                  "tipo": "Tapa blanda",
+                  "precio": 18
+                }
+              ]
+            },
+            {
+              "titulo": "El gen",
+              "autor": "Siddhartha Mukherjee",
+              "precio": 22,
+              "variantes": [
+                {
+                  "tipo": "Tapa dura",
+                  "precio": 30
+                },
+                {
+                  "tipo": "Tapa blanda",
+                  "precio": 22
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
