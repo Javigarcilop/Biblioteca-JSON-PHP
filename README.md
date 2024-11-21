@@ -1,4 +1,4 @@
-# Biblioteca-JSON-PHP
+# biblioteca-JSON-php
 
 ## Descripción
 
@@ -38,7 +38,7 @@ Este proyecto está organizado en varias clases de PHP:
 
 Clona el repositorio:
 ```bash
-git clone https://github.com/Javigarcilop/Biblioteca-JSON-PHP.git
+git clone https://github.com/Javigarcilop/biblioteca-JSON-php.git
 
 
 
