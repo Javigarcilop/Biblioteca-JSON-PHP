@@ -38,6 +38,7 @@ Este proyecto está organizado en varias clases de PHP:
 
 Clona el repositorio:
 ```bash
-git clone https://github.com/javigarcilop/Biblioteca-JSON-PHP.git
+git clone https://github.com/Javigarcilop/Biblioteca-JSON-PHP.git
+
 
 
